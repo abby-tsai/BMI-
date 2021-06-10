@@ -6093,7 +6093,7 @@ form {
 
 .bmi-result .bmi-circle .btn-reset img {
     position: relative;
-    left: 1px;
+    left: 0;
 }
 
 .bmi-result .bmi-desc {
